@@ -31,7 +31,7 @@ _______________________________________
 - Exploit Finder/Searcher
 ## screen Dork private
 
-<img src="https://github.com/Saikohackerteamrm/WEB-HACKING-EXPERT/blob/main/Screenshot_20230811-164406_Pydroid%203.jpg">
+<img src="https://github.com/Saikohackerteamrm/WEB-HACKING-EXPERT/blob/main/Image/Screenshot_20230811-164406_Pydroid%203.jpg">
 
 ## Fast and powerful 
 
@@ -39,11 +39,11 @@ Working with the tool is simple and suitable for people who work in web hacking 
 
 ### screen Exploit Finder
 
-<img src="https://github.com/Saikohackerteamrm/WEB-HACKING-EXPERT/blob/main/Screenshot_20230811-170141_Pydroid%203.jpg">
+<img src="https://github.com/Saikohackerteamrm/WEB-HACKING-EXPERT/blob/main/Image/Screenshot_20230811-170141_Pydroid%203.jpg">
 
 ## List Dorks 
 
-<img src="https://github.com/Saikohackerteamrm/WEB-HACKING-EXPERT/blob/main/Screenshot_20230811-164417_Pydroid%203.jpg">
+<img src="https://github.com/Saikohackerteamrm/WEB-HACKING-EXPERT/blob/main/Image/Screenshot_20230811-164417_Pydroid%203.jpg">
 
  ### Hi there 👋
 
