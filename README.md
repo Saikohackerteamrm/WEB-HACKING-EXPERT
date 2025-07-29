@@ -14,8 +14,8 @@ ____________________
     $ cd WEB-HACKING-EXPERT
     $ python Mithila.py
     
-        # Single installation command
 _______________________________________
+# Single installation command
 
     apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y  && git clone https://github.com/Saikohackerteamrm/WEB-HACKING-EXPERT && cd WEB-HACKING-EXPERT && python Mithila.py
     
